@@ -1,0 +1,145 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+org/tensorflow/lite/R.java
+ org.tensorflow.lite.R
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+sq/flutter/tflite/R.java
+ sq.flutter.tflite.R
+ sq.flutter.tflite.R$attr
+ sq.flutter.tflite.R$color
+ sq.flutter.tflite.R$dimen
+ sq.flutter.tflite.R$drawable
+ sq.flutter.tflite.R$id
+ sq.flutter.tflite.R$integer
+ sq.flutter.tflite.R$layout
+ sq.flutter.tflite.R$string
+ sq.flutter.tflite.R$style
+ sq.flutter.tflite.R$styleable
+com/example/tflite_object_detection/BuildConfig.java
+ com.example.tflite_object_detection.BuildConfig
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
+androidx/arch/core/R.java
+ androidx.arch.core.R
+io/flutter/plugins/imagepicker/R.java
+ io.flutter.plugins.imagepicker.R
+ io.flutter.plugins.imagepicker.R$attr
+ io.flutter.plugins.imagepicker.R$color
+ io.flutter.plugins.imagepicker.R$dimen
+ io.flutter.plugins.imagepicker.R$drawable
+ io.flutter.plugins.imagepicker.R$id
+ io.flutter.plugins.imagepicker.R$integer
+ io.flutter.plugins.imagepicker.R$layout
+ io.flutter.plugins.imagepicker.R$string
+ io.flutter.plugins.imagepicker.R$style
+ io.flutter.plugins.imagepicker.R$styleable
+ io.flutter.plugins.imagepicker.R$xml
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+androidx/savedstate/R.java
+ androidx.savedstate.R
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+androidx/exifinterface/R.java
+ androidx.exifinterface.R
+com/example/tflite_object_detection/R.java
+ com.example.tflite_object_detection.R
+ com.example.tflite_object_detection.R$attr
+ com.example.tflite_object_detection.R$color
+ com.example.tflite_object_detection.R$dimen
+ com.example.tflite_object_detection.R$drawable
+ com.example.tflite_object_detection.R$id
+ com.example.tflite_object_detection.R$integer
+ com.example.tflite_object_detection.R$layout
+ com.example.tflite_object_detection.R$mipmap
+ com.example.tflite_object_detection.R$string
+ com.example.tflite_object_detection.R$style
+ com.example.tflite_object_detection.R$styleable
+ com.example.tflite_object_detection.R$xml
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable
+io/flutter/plugins/flutter_plugin_android_lifecycle/R.java
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$attr
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$color
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$dimen
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$drawable
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$id
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$integer
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$layout
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$string
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$style
+ io.flutter.plugins.flutter_plugin_android_lifecycle.R$styleable
